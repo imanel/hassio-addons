@@ -1,10 +1,10 @@
 {
   "name": "Homebridge",
-  "version": "0.2",
+  "version": "0.2.1",
   "slug": "homebridge",
   "description": "HomeKit support",
-  "url": "https://github.com/olivierguerriat/hassio-addons",
-  "image": "olivierguerriat/hassio-addon-homebridge-{arch}",
+  "url": "https://github.com/imanel/hassio-addons",
+  "image": "imanel/hassio-addon-homebridge-{arch}",
   "startup": "after",
   "boot": "auto",
   "options": {
