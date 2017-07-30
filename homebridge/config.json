@@ -1,6 +1,6 @@
 {
   "name": "Homebridge",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "slug": "homebridge",
   "description": "HomeKit support",
   "url": "https://github.com/imanel/hassio-addons",
